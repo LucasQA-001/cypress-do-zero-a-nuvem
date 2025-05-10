@@ -1,1 +1,1 @@
-Olá, eu sou o Lucas e estou estudando Git
+Olá, eu sou o Lucas e estou estudando Git.
